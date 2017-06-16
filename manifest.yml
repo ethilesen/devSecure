@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: securestorage
+env:
+    SERVICE_NAME: secstorage1
+    DEPLOY: yes
+    
