@@ -1,4 +1,4 @@
-deploy=1
+deploy=yes
 user=no010925@no.ibm.com
 space=test
 org=no010925@no.ibm.com
